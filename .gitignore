@@ -1,0 +1,16 @@
+# Ignore bin directories
+bin/
+bin/*
+
+# Ignore obj directories
+obj/
+obj/*
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
